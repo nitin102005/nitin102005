@@ -1,5 +1,6 @@
 ## 💫 About Me:
-Hi, I'm Nitin Singh Pokhariya — a passionate developer building intelligent web applications with clean UIs and smart backends.<br><br>Welcome to my GitHub! I'm currently pursuing a B.Tech in Computer Science and Engineering, and I love bringing ideas to life using full-stack web development, AI integration, and modern UI/UX practices.<br><br>🔧 What I Do<br>Frontend Development: HTML, CSS, JavaScript, React, Tailwind CSS, Bootstrap<br><br>Backend & APIs: Python, Flask, and API integration<br><br>AI & Automation: Resume analysis with LLMs, OCR pipelines, and job fit scoring<br><br>Tools & Frameworks: Streamlit, Chart.js, spaCy, NLTK, Google Gemini AI, PyMuPDF<br><br>UI/UX Design: Figma for wireframing and interface prototyping
+Hi, I'm Nitin Singh Pokhariya — a passionate developer building intelligent web applications with clean UIs and smart backends.<br><br>Welcome to my GitHub! I'm currently pursuing a B.Tech in Computer Science and Engineering, and I love bringing ideas to life using full-stack web development, AI integration, and modern UI/UX practices.<br><br>
+## 🔧 What I Do<br>Frontend Development: HTML, CSS, JavaScript, React, Tailwind CSS, Bootstrap<br><br>Backend & APIs: Python, Flask, and API integration<br><br>AI & Automation: Resume analysis with LLMs, OCR pipelines, and job fit scoring<br><br>Tools & Frameworks: Streamlit, Chart.js, spaCy, NLTK, Google Gemini AI, PyMuPDF<br><br>UI/UX Design: Figma for wireframing and interface prototyping
 
 
 ## 🌐 Socials:
