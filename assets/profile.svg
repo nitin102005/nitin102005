@@ -434,7 +434,7 @@
 <rect x="770" y="690" width="70" height="92" fill="#0a0a0a" opacity="0.85"/>
 </g>
 <g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.80s" dur="0.9s" fill="freeze"/>
-<text x="60" y="826" font-size="12" letter-spacing="4" fill="#8a8a8a">07 / PROJECTS</text>
+<text x="60" y="826" font-size="12" letter-spacing="4" fill="#8a8a8a">03 / PROJECTS</text>
 <line x1="60" y1="838" x2="840" y2="838" stroke="#3a3a3a" stroke-width="1" stroke-dasharray="780" stroke-dashoffset="780"><animate attributeName="stroke-dashoffset" from="780" to="0" begin="0.80s" dur="1.4s" fill="freeze"/></line>
 </g>
 <g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.20s" dur="0.9s" fill="freeze"/>
@@ -476,8 +476,8 @@
 </g>
 <g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.40s" dur="0.9s" fill="freeze"/>
 <rect x="60" y="1090" width="180" height="84" rx="12" fill="#101010" stroke="#2c2c2c"/>
-<text x="78" y="1137" font-size="34" font-weight="800" fill="#f2f2f2" filter="url(#soft)">03</text>
-<text x="78" y="1158" font-size="10.5" fill="#8a8a8a">Production projects</text>
+<text x="78" y="1137" font-size="34" font-weight="800" fill="#f2f2f2" filter="url(#soft)">06+</text>
+<text x="78" y="1158" font-size="10.5" fill="#8a8a8a">Deployed Projects</text>
 <rect x="60" y="1170" width="0" height="2" fill="#e0e0e0"><animate attributeName="width" from="0" to="180" begin="1.70s" dur="1.2s" fill="freeze"/></rect>
 </g>
 <g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.60s" dur="0.9s" fill="freeze"/>
