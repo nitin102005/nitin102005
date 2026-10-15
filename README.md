@@ -1,7 +1,6 @@
 ![Tech Sphere](./assets/tech-sphere.svg)
 
-## 💫 About Me:
-Hi, I'm Nitin Singh Pokhariya — a passionate developer building intelligent web applications with clean UIs and smart backends.<br><br>Welcome to my GitHub! I'm currently pursuing a B.Tech in Computer Science and Engineering, and I love bringing ideas to life using full-stack web development, AI integration, and modern UI/UX practices.<br>
+
 ## 🔧 What I Do
 **Frontend Development :** HTML, CSS, JavaScript, React, Tailwind CSS, Bootstrap<br>
 **Backend & APIs :** Python and API integration<br>
