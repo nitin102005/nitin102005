@@ -17,7 +17,7 @@
 <rect width="900" height="1480" rx="18" fill="url(#grid)"/>
 <rect width="900" height="1480" rx="18" fill="url(#bgGlow)"/>
 <rect x="0.5" y="0.5" width="899" height="1479" rx="18" fill="none" stroke="#2a2a2a"/>
-<g opacity="0" filter="url(#soft)"><animate attributeName="opacity" from="0" to="1" begin="0.30s" dur="0.9s" fill="freeze"/><text x="60" y="124" font-size="42" font-weight="800" fill="url(#nameG)">NITIN SINGH POKHARIYA</text></g>
+<g opacity="0" filter="url(#soft)"><animate attributeName="opacity" from="0" to="1" begin="0.30s" dur="0.9s" fill="freeze"/><text x="60" y="124" font-size="42" font-weight="800" fill="url(#nameG)">NITIN SINGH</text> <text x="60" y="170" font-size="42" font-weight="800" fill="url(#nameG)">POKHARIYA</text></g>
 <g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.60s" dur="0.9s" fill="freeze"/><text x="60" y="206" font-size="13" fill="#9a9a9a">Full-Stack Developer (Fresher)</text></g>
 <clipPath id="rc0"><rect x="86" y="222" width="0" height="30"><animate attributeName="width" values="0;0;216.0;216.0;0;0" keyTimes="0.000;0.000;0.020;0.220;0.250;1.000" dur="16s" repeatCount="indefinite"/></rect></clipPath>
 <text x="60" y="244" font-size="18" fill="#6a6a6a">&gt;</text>
