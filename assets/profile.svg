@@ -874,29 +874,58 @@
 <text x="60" y="1388" font-size="12" letter-spacing="4" fill="#8a8a8a">06 / CONNECT</text>
 <line x1="60" y1="1400" x2="840" y2="1400" stroke="#3a3a3a" stroke-width="1" stroke-dasharray="780" stroke-dashoffset="780"><animate attributeName="stroke-dashoffset" from="780" to="0" begin="1.40s" dur="1.4s" fill="freeze"/></line>
 </g>
-<g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.80s" dur="0.9s" fill="freeze"/>
-<rect x="60" y="1412" width="170" height="42" rx="21" fill="#111" stroke="#3a3a3a"/>
-<circle cx="82" cy="1433" r="4" fill="#FFFFFF"><animate attributeName="opacity" values="1;0.3;1" dur="2.0s" repeatCount="indefinite"/></circle>
-<text x="96" y="1430" font-size="12" font-weight="700" fill="#f0f0f0">GitHub</text>
-<text x="96" y="1444" font-size="9.5" fill="#808080">@nitin102005</text>
+
+<g opacity="0">
+  <animate attributeName="opacity" from="0" to="1" begin="1.80s" dur="0.9s" fill="freeze"/>
+  <a href="https://github.com/nitin102005" target="_blank">
+    <rect x="60" y="1412" width="170" height="42" rx="21" fill="#111" stroke="#3a3a3a"/>
+    <g transform="translate(72,1422)" fill="none" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M8 2.5a6 6 0 0 0-1.9 11.7c.5.1.7-.2.7-.5v-1.1c-2.8.6-3.4-1.2-3.4-1.2-.5-1.1-1.1-1.4-1.1-1.4-.9-.6.1-.6.1-.6 1 .1 1.5 1 1.5 1 .9 1.5 2.3 1.1 2.9.8.1-.6.4-1.1.6-1.3-2.2-.3-4.5-1.1-4.5-4.9 0-1.1.4-1.9 1-2.6-.1-.2-.4-1.3.1-2.6 0 0 .8-.3 2.7 1a9.5 9.5 0 0 1 4.9 0c1.9-1.3 2.7-1 2.7-1 .5 1.3.2 2.4.1 2.6.6.7 1 1.5 1 2.6 0 3.8-2.3 4.6-4.5 4.9.4.3.7.9.7 1.8v2.1c0 .3.2.6.7.5A6 6 0 0 0 8 2.5Z"/>
+    </g>
+    <text x="96" y="1430" font-size="12" font-weight="700" fill="#f0f0f0">GitHub</text>
+    <text x="96" y="1444" font-size="9.5" fill="#808080">@nitin102005</text>
+  </a>
 </g>
-<g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.95s" dur="0.9s" fill="freeze"/>
-<rect x="250" y="1412" width="170" height="42" rx="21" fill="#111" stroke="#3a3a3a"/>
-<circle cx="272" cy="1433" r="4" fill="#0A66C2"><animate attributeName="opacity" values="1;0.3;1" dur="2.4s" repeatCount="indefinite"/></circle>
-<text x="286" y="1430" font-size="12" font-weight="700" fill="#f0f0f0">LinkedIn</text>
-<text x="286" y="1444" font-size="9.5" fill="#808080">connect</text>
+
+<g opacity="0">
+  <animate attributeName="opacity" from="0" to="1" begin="1.95s" dur="0.9s" fill="freeze"/>
+  <a href="https://www.linkedin.com/in/nitin-singh-pokhariya-922a1a280/" target="_blank">
+    <rect x="250" y="1412" width="170" height="42" rx="21" fill="#111" stroke="#3a3a3a"/>
+    <g transform="translate(263,1423)" fill="#0A66C2">
+      <path d="M1 1h3.5v3.5H1zM1 6h3.5v9H1zM7 6h3.4v1.2h.1A3.7 3.7 0 0 1 13.8 5c3.6 0 4.2 2.3 4.2 5.3V15h-3.5v-4.2c0-1 0-2.4-1.5-2.4s-1.8 1.1-1.8 2.3V15H7z" transform="scale(.85)"/>
+    </g>
+    <text x="286" y="1430" font-size="12" font-weight="700" fill="#f0f0f0">LinkedIn</text>
+    <text x="286" y="1444" font-size="9.5" fill="#808080">connect</text>
+  </a>
 </g>
-<g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="2.10s" dur="0.9s" fill="freeze"/>
-<rect x="440" y="1412" width="170" height="42" rx="21" fill="#111" stroke="#3a3a3a"/>
-<circle cx="462" cy="1433" r="4" fill="#E4405F"><animate attributeName="opacity" values="1;0.3;1" dur="2.8s" repeatCount="indefinite"/></circle>
-<text x="476" y="1430" font-size="12" font-weight="700" fill="#f0f0f0">Instagram</text>
-<text x="476" y="1444" font-size="9.5" fill="#808080">follow</text>
+
+<g opacity="0">
+  <animate attributeName="opacity" from="0" to="1" begin="2.10s" dur="0.9s" fill="freeze"/>
+  <a href="https://www.instagram.com/" target="_blank">
+    <rect x="440" y="1412" width="170" height="42" rx="21" fill="#111" stroke="#3a3a3a"/>
+    <g transform="translate(452,1422)" fill="none" stroke="#E4405F" stroke-width="1.7">
+      <rect x="1" y="1" width="16" height="16" rx="4"/>
+      <circle cx="9" cy="9" r="3.7"/>
+      <circle cx="13.5" cy="4.8" r=".9" fill="#E4405F" stroke="none"/>
+    </g>
+    <text x="476" y="1430" font-size="12" font-weight="700" fill="#f0f0f0">Instagram</text>
+    <text x="476" y="1444" font-size="9.5" fill="#808080">follow</text>
+  </a>
 </g>
-<g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="2.25s" dur="0.9s" fill="freeze"/>
-<rect x="630" y="1412" width="170" height="42" rx="21" fill="#111" stroke="#3a3a3a"/>
-<circle cx="652" cy="1433" r="4" fill="#8B5CF6"><animate attributeName="opacity" values="1;0.3;1" dur="3.2s" repeatCount="indefinite"/></circle>
-<text x="666" y="1430" font-size="12" font-weight="700" fill="#f0f0f0">Portfolio</text>
-<text x="666" y="1444" font-size="9.5" fill="#808080">view work</text>
+
+<g opacity="0">
+  <animate attributeName="opacity" from="0" to="1" begin="2.25s" dur="0.9s" fill="freeze"/>
+  <a href="https://portfolio-wine-two-69.vercel.app/" target="_blank">
+    <rect x="630" y="1412" width="170" height="42" rx="21" fill="#111" stroke="#3a3a3a"/>
+    <g transform="translate(643,1423)" fill="none" stroke="#8B5CF6" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+      <rect x="1" y="2" width="16" height="12" rx="2"/>
+      <path d="M5 17h8M9 14v3M6 6h6M6 9h4"/>
+    </g>
+    <text x="666" y="1430" font-size="12" font-weight="700" fill="#f0f0f0">Portfolio</text>
+    <text x="666" y="1444" font-size="9.5" fill="#808080">view work</text>
+  </a>
 </g>
+
 <text x="450" y="1472" font-size="9" letter-spacing="3" fill="#4c4c4c" text-anchor="middle">NITIN.DEV  &#183;  @NITIN102005  &#183;  B.TECH CSE 2027</text>
 </svg>
+
